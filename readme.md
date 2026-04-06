@@ -76,7 +76,7 @@
 
 ### 👤 collaboration(nova xmd)
 <p align="center">
-  <i>The legends behind this project:</i>
+  <i>Las leyendas detrás de este proyecto:</i>
 </p>
 <p align="center">
 <a href="https://github.com/novaxmd/NOVA-XMD/graphs/contributors">
