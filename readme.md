@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ÚLTIMO+WHATSAPP+BOT;+COMPATIBLE+CON+VARIOS+DISPOSITIVOS;+RÁPIDO++SEGURO++FIABLE" alt="Animated Typing SVG" />
+  <img src=[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=43&pause=1000&width=435&lines=+COMPATIBLE+CON+VARIOS+DISPOSITIVOS;+RÁPIDO++SEGURO++FIABLE)](https://git.io/typing-svg) alt="Animated Typing SVG" />
 </p>
 
 <div align="center">
