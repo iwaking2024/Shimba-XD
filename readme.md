@@ -22,7 +22,7 @@
 
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=56&pause=1000&color=8A2BE2&center=true&width=430&height=200&lines=CLIC+AQUI+PARA+DESPLIEGAR+AHORA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=56&pause=1000&color=8A2BE2&center=true&width=730&height=200&lines=CLIC+AQUI+PARA+DESPLIEGAR+AHORA" alt="Typing SVG" /></a>
   </div>
 
   ---
