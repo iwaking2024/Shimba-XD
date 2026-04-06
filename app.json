@@ -8,151 +8,151 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "Introduce aquí el ID de sesión.",
       "required": true,
       "value": ""
     },
 
     "PREFIX": {
-      "description": "paste your bot prefix note! Don't apply null prefix.",
+      "description": "¡Pega tu nota de prefijo de bot! No apliques prefijo nulo.",
       "required": false,
       "value": "."
     },
 
     "MODE": {
-      "description": "select your bot work type public-private-inbox-group.",
+      "description": "Seleccione el tipo de trabajo de su bot: public-private-inbox-group.",
       "required": false,
       "value": "public"
     },
 
     "ANTI_DELETE": {
-      "description": "set true for show deleted messages.",
+      "description": "Establecer true para mostrar mensajes eliminados.",
       "required": false,
       "value": "true"
     },
 
     "ALWAYS_ONLINE": {
-      "description": "Make it true if want always online.",
+      "description": "Hazlo true si quieres estar siempre conectado.",
       "required": false,
       "value": "false"
     },
 
     "AUTO_REPLY": {
-      "description": "Make it true if you want automatic reply.",
+      "description": "Hazlo true si quieres una respuesta automática..",
       "required": false,
       "value": "false"
     },
 
     "AUTO_STATUS_SEEN": {
-      "description": "Make it true for automatic status seen.",
+      "description": "Haz que sea true para el estado automático visto.",
       "required": true,
       "value": "true"
     },
 
     "AUTO_STATUS_REACT": {
-      "description": "make it true for automatic status reaction or like.",
+      "description": "Haz que sea true para la reacción de estado automática o similar.",
       "required": true,
       "value": "true"
     },
 
     "AUTO_STATUS_REPLY": {
-      "description": "Make it true for auto reply msg on status seen.",
+      "description": "Haz que sea true para el mensaje de respuesta automática cuando se vea el estado.",
       "required": true,
       "value": "false"
     },
 
     "AUTO_STATUS_MSG": {
-      "description": "Type custom message on status reply",
+      "description": "Escribe un mensaje personalizado en la respuesta de estado.",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY NOVA XMD*"
+      "value": "*SEEN YOUR STATUS *"
     },
 
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "Escriba el nombre del propietario del bot.",
       "required": false,
       "value": "NOVA-TECH"
     },
 
     "OWNER_NUMBER": {
-      "description": "put the owner number for bot.",
+      "description": "Pon el número de propietario del bot.",
       "required": false,
-      "value": "255767862457"
+      "value": "71592727"
     },
 
     "DESCRIPTION": {
-      "description": "add caption for menu and other",
+      "description": "agregar título para menú y otros",
       "required": false,
       "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙽𝙾𝚅𝙰-𝚇𝙼𝙳*"
     },
 
     "AUTO_RECORDING": {
-      "description": "Make it true if you want auto recoding.",
+      "description": "Hazlo true si quieres la recodificación automática.",
       "required": false,
       "value": "false"
     },
 
     "AUTO_TYPING": {
-      "description": "Make it true if you want auto typing.",
+      "description": "Hazlo true si quieres que se escriba automáticamente.",
       "required": false,
       "value": "true"
     },
 
     "AUTO_REACT": {
-      "description": "Make it true if you want react on every message.",
+      "description": "Hazlo true si quieres reaccionar a cada mensaje.",
       "required": false,
       "value": "false"
     },
 
     "CUSTOM_REACT": {
-      "description": "Make it true if you want custom reactions.",
+      "description": "Hazlo true si quieres reacciones personalizadas.",
       "required": false,
       "value": "false"
     },
 
     "CUSTOM_REACT_EMOJIS": {
-      "description": "put here custom react react emojis.",
+      "description": "poner aquí personalizado react react emojis.",
       "required": false,
       "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
     },
 
     "ANTI_DEL_PATH": {
-      "description": "change it to -same- if you want to resend deleted message in same chat othwise inbox",
+      "description": "Cámbialo a -same- si quieres reenviar el mensaje borrado en el mismo chat; de lo contrario, en la bandeja de entrada.",
       "required": false,
       "value": "log"
     },
     
     "DELETE_LINKS": {
-      "description": "remove links from group automatically without removing member",
+      "description": "Eliminar automáticamente los enlaces del grupo sin eliminar al miembro",
       "required": false,
       "value": "false"
     },
 
     "WELCOME": {
-      "description": "make it true if want goodbye and welcome message in groups.",
+      "description": "Hazlo true si quieres enviar mensajes de despedida y bienvenida en los grupos.",
       "required": false,
       "value": "true"
     },
 
     "ANTICALL": {
-      "description": "Make it true if you want bot to block incoming calls.",
+      "description": "Hazlo true si quieres que el bot bloquee las llamadas entrantes.",
       "required": false,
       "value": "false"
     },
 
     "READ_MESSAGE": {
-      "description": "Make it true if you want bot read your all sms just now.",
+      "description": "Hazlo true si quieres que el bot lea todos tus SMS ahora mismo.",
       "required": false,
       "value": "false"
     },
 
     "AUTO_BIO": {
-      "description": "Make it true if you want bot to auto-update bio/status.",
+      "description": "Marca como true si quieres que el bot actualice automáticamente la biografía/estado..",
       "required": false,
       "value": "true"
     },
 
     "CHAT_BOT": {
-      "description": "Make it true if you want AI chatbot responses enabled.",
+      "description": "Hazlo true si quieres que se activen las respuestas del chatbot de IA.",
       "required": false,
       "value": "false"
     }
