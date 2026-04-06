@@ -42,7 +42,7 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.ibb.co/Hfm7K7QF/IMG-20260302-WA0004.jpg",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.postimg.cc/SNDvWDPb/shimba-XD.jpg",
 // add custom menu and mention reply image url
 
 PREFIX: process.env.PREFIX || ".",
