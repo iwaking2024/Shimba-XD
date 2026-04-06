@@ -51,7 +51,7 @@ PREFIX: process.env.PREFIX || ".",
 BOT_NAME: process.env.BOT_NAME || "NOVA-XMD",
 // add bot namw here for menu
 
-STICKER_NAME: process.env.STICKER_NAME || "NOVA-XMD",
+STICKER_NAME: process.env.STICKER_NAME || "SHIMBA-XD",
 // type sticker pack name 
 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
@@ -66,7 +66,7 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "255767862457",
 OWNER_NAME: process.env.OWNER_NAME || "𝙱.𝙼.𝙱-𝚃𝙴𝙲𝙷",
 // add bot owner name
 
-DESCRIPTION: process.env.DESCRIPTION || "*© powered 𝙽𝙾𝚅𝙰-𝚇𝙼𝙳*",
+DESCRIPTION: process.env.DESCRIPTION || "*© powered SHIMBA-𝚇𝙳*",
 // add bot description    
 
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/Hfm7K7QF/IMG-20260302-WA0004.jpg",
